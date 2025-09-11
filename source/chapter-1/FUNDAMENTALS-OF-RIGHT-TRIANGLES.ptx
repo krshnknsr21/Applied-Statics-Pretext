@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="FUNDAMENTALS-OF-RIGHT-TRIANGLES" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>FUNDAMENTALS OF RIGHT TRIANGLES</title>
+
+  <introduction>
+    <p>The sum of all of the angles in any triangle must add up to 180°.</p>
+  </introduction>
+
+  <subsection xml:id="right-angle-triangles">
+    <title>Right-Angle Triangles</title>
+
+    <p>
+      A <term>right angle</term> triangle means there is one angle that is exactly 90°. 
+      The side opposite to the right angle is called the <term>Hypotenuse</term> (C). 
+      The hypotenuse is the longest side in the right-angled triangle.
+    </p>
+
+    <p>
+      For all <term>right angle</term> triangles, you can use the 
+      <term>Pythagorean Theorem</term> 
+      (<m>C^2 = A^2 + B^2</m>) to solve for unknown lengths.
+    </p>
+    
+    <blockquote>
+      <p>
+         <term>PYTHAGOREAN THEOREM</term> (<m>C^2 = A^2 + B^2</m>)
+      </p>
+    </blockquote>
+
+    <figure xml:id="fig-right-triangle">
+      <caption>
+        A right triangle with sides A, B, and hypotenuse C.
+      </caption>
+      <image source="images\right_triangle_transparent.png" width="40%">
+      </image>
+    </figure>
+    
+    <p>
+      The names of the variables are irrelevant; you can use any letter to denote any of these. 
+      Another way to consider this theorem is:
+    </p>
+
+    <blockquote>
+      <p>
+        (<m>Hypotenuse^2 = Side^2 + OtherSide^2</m>)
+      </p>
+    </blockquote>
+  </subsection>
+</section>

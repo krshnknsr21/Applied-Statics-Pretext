@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="EXAMPLES" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>EXAMPLES</title>
+
+  <example>
+    <task>
+      <statement>
+        <p>
+          Solve for all unknowns (X and <m>\alpha</m>)
+        </p>
+        <image source="images/examples_1.png" width="50%">
+          <shortdescription>(for accessibility)</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          <term>Step 1: Is triangle <em>“right-angled”</em>  or <em>“oblique-angled”</em>?</term>
+        </p>
+        <blockquote>
+          <p>
+            <em>Right-angled triangle</em>
+          </p>
+        </blockquote>
+        <p>
+          <term>Step 2: Solve for X</term>
+        </p>
+        <blockquote>
+          <p>
+            Use Pythagorean Theorem
+          </p>
+          <p>
+            <m>C^2 = A^2 + B^2</m>
+          </p>
+          <p> 
+            <m>13^2 = X^2 + 5^2</m>
+          </p>
+          <p>
+            <m>X = 12</m>
+          </p>
+        </blockquote>
+        <p>
+          <term>Step 3: Solve for <m>\alpha</m></term>
+        </p>
+        <blockquote>
+          <p>
+            <m>\sin \alpha = \tfrac{5}{13} \approx 23^\circ</m>            
+          </p>
+          <p>
+            <m>\cos \alpha = \tfrac{12}{13} \approx 23^\circ</m>
+          </p>
+          <p>
+            <m>\tan \alpha = \tfrac{5}{12} \approx 23^\circ</m>
+          </p>
+        </blockquote>
+
+      </answer>
+    </task>
+  </example>
+
+  <example>
+    <task>
+      <statement>
+        <p>
+          Solve for all unknowns (<m>\alpha</m>, X and Z)
+        </p>
+        
+        <image source="images/examples_2.png" width="50%">
+          <shortdescription>(for accessibility)</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          <term>Step 1: Is triangle <em>“right-angled”</em>  or <em>“oblique-angled”</em>?</term>
+        </p>
+        <blockquote>
+          <p>
+            <em>Right-angled triangle</em>
+          </p>
+        </blockquote>
+        <p>
+          <term>Step 2: Solve for <m>\alpha</m></term>
+        </p>
+        <blockquote>
+          <p>
+            Properties of a triangle are that total internal angles = <m>180^\circ</m>
+          </p>
+          <p>
+            <m>180^\circ = 90^\circ + 15^\circ + \alpha</m>
+          </p>
+          <p> 
+            <m>13^2 = X^2 + 5^2</m>
+          </p>
+          <p>
+            <m>\alpha = 75^\circ</m>
+          </p>
+        </blockquote>
+        <p>
+          <term>Step 3: Solve for X</term>
+        </p>
+        <blockquote>
+          <p>
+            <m>\tan 75^\circ = \tfrac{X}{50}</m>           
+          </p>
+          <p>
+            <m>X \approx 186.60</m>
+          </p>
+        </blockquote>
+        <p>
+          <term>Step 4: Solve for Z</term>
+        </p>
+        <blockquote>
+          <p>
+            <m>Z^2 = 186.60^2 + 50^2</m>           
+          </p>
+          <p>
+            <m>Z \approx 193.18</m>
+          </p>
+        </blockquote>
+      </answer>
+    </task>
+  </example>
+
+</section>

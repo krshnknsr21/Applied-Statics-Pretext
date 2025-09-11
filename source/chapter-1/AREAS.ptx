@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="AREAS" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>AREAS</title>
+
+  <p> The area of a rectangle is found by: (base) x (height) </p>
+  <p> The area of a triangle is found by: ½ (base) x (height) </p>
+  <p> The area of a circle is found by: <m>π \times (\text{radius})^2</m>. </p>
+
+</section>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="PYTHAGOREAN-THEOREM" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>PYTHAGOREAN THEOREM</title>
+
+  <p>
+    For all right angle triangles, you can use the Pythagorean Theorem (C2 = A2 + B2) or  [SOH | CAH | TOA] to solve for unknown angles or lengths.
+  </p>
+
+
+  <blockquote>
+    <p>
+       <term>PYTHAGOREAN THEOREM</term> (<m>C^2 = A^2 + B^2</m>)
+    </p>
+    <p>
+      <m>\sin \theta = \frac{\text{Opposite}}{\text{Hypotenuse}}</m> (SOH)
+    </p>
+    <p>
+      <m>\cos \theta = \frac{\text{Adjacent}}{\text{Hypotenuse}}</m> (CAH)
+    </p>
+    <p>
+      <m>\tan \theta = \frac{\text{Opposite}}{\text{Adjacent}}</m> (TOA)
+    </p>
+  </blockquote>
+
+  <figure xml:id="pythagorean_theorem_1">
+    <caption>
+      For example, to solve for angle <m>\beta</m>, you can use the following equations: <m>\sin \beta = \frac{A}{C}</m>, <m>\cos \beta = \frac{B}{C}</m>, or <m>\tan \beta = \frac{A}{B}</m>.
+    </caption>
+    <image source="images/pythagorean_theorem_1.png" width="40%"></image>
+  </figure>
+
+</section>

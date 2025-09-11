@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="SIMILAR-TRIANGLES" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>SIMILAR TRIANGLES</title>
+
+  <p> You can use  <em>“similar triangles”</em> to compute angles, lengths, or forces of two triangles that are considered similar. </p>
+  <p> For example, to solve for X in the diagram, we can use similar triangles (if the angles in the triangle are the same). </p>
+  <example xml:id="similar_triangles_example_1">
+    <p>
+      <m>\frac{5}{12} = \frac{10}{x}</m>
+    </p>
+    <p>
+      So <m>x =</m> 24'
+    </p>
+</example>
+    <image source="images/similar_triangles_1.png" width="60%"></image>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="TRIGONOMETRY-AND-GEOMETRY-REVIEW" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>TRIGONOMETRY AND GEOMETRY REVIEW</title>
+
+  <introduction>
+    <p> This section reviews basic geometry and trigonometry concepts at a high-level.  
+        The application and use of geometry and trigonometry will be used throughout this book and our study of applied statics. 
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="AREAS.ptx" />
+  <xi:include href="FUNDAMENTALS-OF-RIGHT-TRIANGLES.ptx" />
+  <xi:include href="TRIGONOMETRY.ptx" />
+  <xi:include href="PYTHAGOREAN-THEOREM.ptx" />
+  <xi:include href="SIMILAR-TRIANGLES.ptx" />
+  <xi:include href="EXAMPLES.ptx" />
+
+</chapter>

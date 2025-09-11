@@ -1,0 +1,52 @@
+<section xml:id="TRIGONOMETRY">
+  <title>TRIGONOMETRY</title>
+
+  <introduction>
+    <p>
+      Right-angled triangles have specific trigonometric properties, which can be used to find unknown dimensions or angles.
+      A side can be <em>opposite</em> to one angle and <em>adjacent</em> to a different angle.
+      <term>The location of the angle determines the relationships “opposite” or “adjacent”.</term>
+    </p>
+  </introduction>
+
+  <subsection xml:id="definitions-soh-cah-toa">
+    <title>Basic Definitions (SOH-CAH-TOA)</title>
+
+    <list>
+      <title>
+        The three primary trigonometric ratios are:
+      </title>
+      <ol>
+        <li>
+          <p>
+            <m>\sin \theta = \frac{\text{Opposite}}{\text{Hypotenuse}}</m> (SOH)
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\cos \theta = \frac{\text{Adjacent}}{\text{Hypotenuse}}</m> (CAH)
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\tan \theta = \frac{\text{Opposite}}{\text{Adjacent}}</m> (TOA)
+          </p>
+        </li>
+      </ol>
+    </list>
+  </subsection>
+
+  <subsection xml:id="scenario-1-beta">
+    <title>Scenario #1 — Angle <m>\beta</m> as drawn below</title>
+      
+    <image source="images/right_triangle_beta_1.png" width="80%"></image>
+  
+  </subsection>
+
+    <subsection xml:id="scenario-2-beta">
+    <title>Scenario #2 — Angle <m>\beta</m> as drawn below</title>
+
+    <image source="images/right_triangle_beta_2.png" width="80%"></image>
+
+  </subsection>
+</section>
