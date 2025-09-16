@@ -11,9 +11,12 @@
       <department>School of Sustainable Engineering and the Built Environment</department>
       <institution>Arizona State University</institution>
     </author>
-    <date>
-      <today />
-    </date>
+    
+    <author>
+      <personname>Dr. John Savicky</personname>
+      <department>School of Sustainable Engineering and the Built Environment</department>
+      <institution>Arizona State University</institution>
+    </author>
 
     <website>
       <url href="https://pretextbook.org">My Website</url>
@@ -32,8 +35,8 @@
     <titlepage-items/>
   </titlepage>
 
-  <colophon xml:id="front-colophon">
+  <!-- <colophon xml:id="front-colophon">
     <colophon-items/>
-  </colophon>
+  </colophon> -->
 </frontmatter>
 
